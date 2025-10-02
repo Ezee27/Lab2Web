@@ -32,45 +32,8 @@ Aku bisa bikinin draft **README.md** dengan struktur rapi, mirip seperti teman k
 ### Contoh README.md untuk tugas kamu:
 
 ````markdown
-# Praktikum 2 - CSS Dasar
+<img width="1510" height="1432" alt="no1" src="https://github.com/user-attachments/assets/aaa3c26f-9c50-4b6f-a781-b7852d57d292" />
 
-## 1. Membuat Dokumen HTML
-Pada langkah ini, dibuat file HTML baru (misalnya: `lab2_css_dasar.html`) yang berisi struktur dasar dokumen HTML.  
-Struktur HTML mencakup `<!DOCTYPE html>`, `<html>`, `<head>`, dan `<body>`.  
-Selain itu, ditambahkan elemen judul, paragraf, dan navigasi sederhana agar halaman dapat diakses dengan baik.
-
-**Kode:**
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CSS Dasar</title>
-</head>
-<body>
-  <header>
-    <h1>CSS Internal dan <i>Inline CSS</i></h1>
-  </header>
-
-  <nav>
-    <a href="lab2_css_dasar.html">CSS Dasar</a>
-    <a href="lab2_css_eksternal.html">CSS Eksternal</a>
-    <a href="lab1_tag_dasar.html">HTML Dasar</a>
-  </nav>
-
-  <div id="intro">
-    <h1>Hello World</h1>
-    <p>
-      Kami sedang belajar HTML dan CSS dasar, pada mata kuliah 
-      <b>Pemrograman Web</b> di <i>Universitas Pelita Bangsa</i>. 
-      Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
-      dalam rangka mengenal tag-tag dasar HTML dan CSS.
-    </p>
-    <a class="button btn-primary" href="#intro">Informasi selengkapnya.</a>
-  </div>
-</body>
-</html>
 ````
 
 **Screenshot:**
