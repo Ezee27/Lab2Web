@@ -75,52 +75,9 @@ CSS jenis ini hanya berlaku pada elemen yang ditentukan.
 
 Selain internal dan inline, CSS juga bisa ditulis terpisah di file `.css`, lalu dipanggil ke HTML dengan `<link>`.
 
-**Kode File CSS (`style.css`):**
+**Kode File CSS (`style_eksternal.css`):**
 
-```css
-nav {
-  background: #20A759;
-  color: #fff;
-  padding: 10px;
-}
-
-nav a {
-  color: #fff;
-  text-decoration: none;
-  padding: 10px 20px;
-}
-
-nav .active,
-nav a:hover {
-  background: #0B6B3A;
-}
-
-/* ID Selector */
-#intro {
-  background: #418fb1;
-  border: 1px solid #099249;
-  min-height: 100px;
-  padding: 10px;
-}
-#intro h1 {
-  text-align: left;
-  border: 0;
-  color: #fff;
-}
-
-/* Class Selector */
-.button {
-  padding: 15px 20px;
-  background: #bebcbd;
-  color: #fff;
-  display: inline-block;
-  margin: 10px;
-  text-decoration: none;
-}
-.btn-primary {
-  background: #E42A42;
-}
-```
+<img width="740" height="1888" alt="image" src="https://github.com/user-attachments/assets/dcfa6203-24fd-438f-b87c-f6f848791a66" />
 
 **Kode Pemanggilan di HTML:**
 
