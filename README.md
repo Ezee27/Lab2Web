@@ -33,10 +33,10 @@ Aku bisa bikinin draft **README.md** dengan struktur rapi, mirip seperti teman k
 
 ### Contoh README.md untuk tugas kamu:
 
-````markdown
+
 <img width="1510" height="1432" alt="no1" src="https://github.com/user-attachments/assets/3ec2ecee-44de-40cc-a60c-fb5aed90b4b5" />
 
-````
+
 
 **Screenshot:**
 ![Dokumen HTML](screenshot/html.png)
