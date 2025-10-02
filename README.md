@@ -51,7 +51,8 @@ CSS ini digunakan untuk mengatur tampilan elemen pada halaman yang sama.
 
 
 **📷Screenshot:**
-![CSS Internal](screenshot/internal.png)
+<img width="1915" height="439" alt="image" src="https://github.com/user-attachments/assets/1d259e6c-2611-4ea0-9786-607e094e6fae" />
+
 
 ---
 
@@ -62,17 +63,11 @@ CSS jenis ini hanya berlaku pada elemen yang ditentukan.
 
 **Kode:**
 
-```html
-<p style="text-align: center; color: #ccd8e4;">
-  Kami sedang belajar HTML dan CSS dasar, pada mata kuliah 
-  <b>Pemrograman Web</b> di <i>Universitas Pelita Bangsa</i>. 
-  Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
-  dalam rangka mengenal tag-tag dasar HTML dan CSS.
-</p>
-```
+<img width="1434" height="520" alt="image" src="https://github.com/user-attachments/assets/74c3c7f6-0606-4553-85c9-d9d18a4fe42b" />
+
 
 **📷Screenshot:**
-![Inline CSS](screenshot/inline.png)
+<img width="1900" height="196" alt="image" src="https://github.com/user-attachments/assets/9e2056ed-14fe-45ca-a48d-dc454683f2f8" />
 
 ---
 
