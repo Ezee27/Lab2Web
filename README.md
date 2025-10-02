@@ -17,7 +17,8 @@
 
 ## **Tujuan**
 
-<img width="602" height="214" alt="image" src="https://github.com/user-attachments/assets/9f5c20d9-4b54-4f91-aecc-bce6e1c5459d" />
+<img width="1510" height="1432" alt="no1" src="https://github.com/user-attachments/assets/3ec2ecee-44de-40cc-a60c-fb5aed90b4b5" />
+
 
 ---
 
