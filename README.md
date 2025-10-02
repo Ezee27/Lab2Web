@@ -23,7 +23,7 @@
 
 ## **1. Eksperimen mengubah properti dan nilai CSS**
 
-Saya mencoba mengubah dan menambah properti pada CSS dengan mengacu pada CSS Cheat Sheet.
+Disini saya mencoba mengubah dan menambah properti pada CSS dengan mengacu pada CSS Cheat Sheet.
 
 ### Contoh Kode:
 
@@ -46,7 +46,7 @@ p {
 }
 ```
 
-📌 **Hasil**:
+**Hasil**:
 
 * Latar belakang halaman berubah menjadi biru muda.
 * Judul `<h1>` berwarna merah gelap dan berada di tengah.
@@ -77,7 +77,7 @@ h1 {
 </div>
 ```
 
-📌 **Hasil**:
+**Hasil**:
 
 * "Judul Umum" → merah.
 * "Judul di Intro" → biru.
@@ -88,7 +88,7 @@ h1 {
 
 Jika pada elemen yang sama terdapat **Eksternal, Internal, dan Inline CSS**, maka prioritas yang berlaku:
 
-👉 **Inline > Internal > Eksternal**
+**Inline > Internal > Eksternal**
 
 ### Contoh Kode:
 
@@ -126,7 +126,7 @@ p {
 </html>
 ```
 
-📌 **Hasil**: Teks paragraf berwarna **biru**, karena inline CSS memiliki prioritas tertinggi.
+**Hasil**: Teks paragraf berwarna **biru**, karena inline CSS memiliki prioritas tertinggi.
 
 ---
 
@@ -149,7 +149,7 @@ Jika elemen HTML memiliki **ID dan Class**, maka aturan dengan selector **ID leb
 <p id="paragraf-1" class="text-paragraf">Contoh Paragraf</p>
 ```
 
-📌 **Hasil**: Teks paragraf berwarna **merah**, karena selector ID (`#paragraf-1`) lebih spesifik dibandingkan class (`.text-paragraf`).
+**Hasil**: Teks paragraf berwarna **merah**, karena selector ID (`#paragraf-1`) lebih spesifik dibandingkan class (`.text-paragraf`).
 
 ---
 
