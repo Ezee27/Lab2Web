@@ -21,7 +21,7 @@
 
 ---
 
-## **1. Eksperimen CSS**
+## **1. Eksperimen mengubah properti dan nilai CSS**
 
 Saya mencoba mengubah dan menambah properti pada CSS dengan mengacu pada CSS Cheat Sheet.
 
@@ -54,7 +54,7 @@ p {
 
 ---
 
-## **2. Perbedaan `h1 { ... }` dan `#intro h1 { ... }`**
+## **2. Perbedaan h1 { ... } dengan #intro h1 { ... }**
 
 * `h1 { ... }` → berlaku untuk semua elemen `<h1>` di halaman web.
 * `#intro h1 { ... }` → hanya berlaku untuk elemen `<h1>` yang berada di dalam elemen dengan `id="intro"`.
