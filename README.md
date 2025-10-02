@@ -19,11 +19,6 @@
 
 <img width="602" height="214" alt="image" src="https://github.com/user-attachments/assets/9f5c20d9-4b54-4f91-aecc-bce6e1c5459d" />
 
-1. Memahami konsep dasar CSS.
-2. Memahami aturan penulisan CSS.
-3. Memahami selector sebagai pengontrol CSS.
-4. Membuat pengaturan CSS pada HTML.
-
 ---
 
 ## **1. Eksperimen CSS**
