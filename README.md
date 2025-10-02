@@ -77,7 +77,7 @@ Selain internal dan inline, CSS juga bisa ditulis terpisah di file `.css`, lalu 
 
 **Kode File CSS (`style_eksternal.css`):**
 
-nav {
+```nav {
   background: #20A759;
   color: #fff;
   padding: 10px;
