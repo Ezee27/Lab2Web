@@ -6,15 +6,18 @@
 
 ## **Identitas**
 
-**Mata Kuliah** : Pemrograman Web
-**Nama**        : [Tuliskan Namamu]
-**NIM**         : [Tuliskan NIM]
-**Kelas**       : [Tuliskan Kelas]
-**Dosen**       : Agung Nugroho, S.Kom., M.Kom
+**Mata Kuliah** : Pemrograman Web1
+**Nama**        : [Zaenal Maulana Rizki]
+**NIM**         : [312410332]
+**Kelas**       : [TI.24.A.4]
+**Dosen**       : Agung Nugroho, S.Kom., M.Kom.
+
 
 ---
 
 ## **Tujuan**
+
+<img width="602" height="214" alt="image" src="https://github.com/user-attachments/assets/9f5c20d9-4b54-4f91-aecc-bce6e1c5459d" />
 
 1. Memahami konsep dasar CSS.
 2. Memahami aturan penulisan CSS.
