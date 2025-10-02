@@ -38,8 +38,9 @@ Aku bisa bikinin draft **README.md** dengan struktur rapi, mirip seperti teman k
 
 
 
-**Screenshot:**
-![Dokumen HTML](screenshot/html.png)
+**📷Screenshot:**
+<img width="1919" height="420" alt="image" src="https://github.com/user-attachments/assets/1aa2c6b4-2ff6-45bd-8f44-197815742ebb" />
+
 
 ---
 
@@ -50,31 +51,10 @@ CSS ini digunakan untuk mengatur tampilan elemen pada halaman yang sama.
 
 **Kode:**
 
-```html
-<head>
-  <title>CSS Dasar</title>
-  <style>
-    body {
-      font-family: 'Open Sans', sans-serif;
-    }
-    header {
-      min-height: 80px;
-      border-bottom: 1px solid #77CCEF;
-    }
-    h1 {
-      font-size: 24px;
-      color: #0F189F;
-      text-align: center;
-      padding: 20px 10px;
-    }
-    h1 i {
-      color: #6d6a6b;
-    }
-  </style>
-</head>
-```
+<img width="972" height="1090" alt="no2" src="https://github.com/user-attachments/assets/04b4b231-2c58-424f-875a-8bd0fc67101d" />
 
-**Screenshot:**
+
+**📷Screenshot:**
 ![CSS Internal](screenshot/internal.png)
 
 ---
@@ -95,7 +75,7 @@ CSS jenis ini hanya berlaku pada elemen yang ditentukan.
 </p>
 ```
 
-**Screenshot:**
+**📷Screenshot:**
 ![Inline CSS](screenshot/inline.png)
 
 ---
@@ -159,7 +139,7 @@ nav a:hover {
 </head>
 ```
 
-**Screenshot:**
+**📷Screenshot:**
 ![Eksternal CSS](screenshot/eksternal.png)
 
 ```
