@@ -77,7 +77,48 @@ Selain internal dan inline, CSS juga bisa ditulis terpisah di file `.css`, lalu 
 
 **Kode File CSS (`style_eksternal.css`):**
 
-<img width="740" height="1888" alt="image" src="https://github.com/user-attachments/assets/dcfa6203-24fd-438f-b87c-f6f848791a66" />
+nav {
+  background: #20A759;
+  color: #fff;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+nav .active,
+nav a:hover {
+  background: #0B6B3A;
+}
+
+/* ID Selector */
+#intro {
+  background: #418fb1;
+  border: 1px solid #099249;
+  min-height: 100px;
+  padding: 10px;
+}
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff;
+}
+
+/* Class Selector */
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+}
+.btn-primary {
+  background: #E42A42;
+}
 
 **Kode Pemanggilan di HTML:**
 
