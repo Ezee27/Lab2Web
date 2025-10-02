@@ -7,10 +7,10 @@
 ## **Identitas**
 
 ### **Mata Kuliah** : Pemrograman Web1 ###
-**Nama**        : [Zaenal Maulana Rizki]
-**NIM**         : [312410332]
-**Kelas**       : [TI.24.A.4]
-**Dosen**       : Agung Nugroho, S.Kom., M.Kom.
+### **Nama**        : Zaenal Maulana Rizki ###
+### **NIM**         : 312410332 ###
+### **Kelas**       : TI.24.A.4 ###
+### **Dosen**       : Agung Nugroho, S.Kom., M.Kom. ###
 
 
 ---
