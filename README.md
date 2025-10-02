@@ -35,6 +35,7 @@ Pada langkah ini, dibuat sebuah file HTML baru (misalnya: lab2_css_dasar.html) y
 
 
 **📷Screenshot:**
+
 <img width="1919" height="420" alt="image" src="https://github.com/user-attachments/assets/1aa2c6b4-2ff6-45bd-8f44-197815742ebb" />
 
 
@@ -67,6 +68,7 @@ CSS jenis ini hanya berlaku pada elemen yang ditentukan.
 
 
 **📷Screenshot:**
+
 <img width="1900" height="196" alt="image" src="https://github.com/user-attachments/assets/9e2056ed-14fe-45ca-a48d-dc454683f2f8" />
 
 ---
@@ -129,18 +131,14 @@ nav a:hover {
 ```
 
 **📷Screenshot:**
-![Eksternal CSS](screenshot/eksternal.png)
+
+<img width="1917" height="578" alt="image" src="https://github.com/user-attachments/assets/de85ec07-ee89-4a69-b4eb-0bcf3c9061a2" />
 
 ```
 
 ---
-
-📌 Jadi kamu tinggal ganti bagian `![Screenshot](...)` dengan file screenshot hasil run HTML kamu (sesuai kayak temanmu).  
-
-Mau aku bikinin **versi README lengkap** langsung dengan struktur step 1–4 (HTML, internal CSS, inline CSS, eksternal CSS) biar bisa kamu copy-paste ke repo?
 ```
 
-111
 ## **1. Eksperimen mengubah properti dan nilai CSS**
 
 Disini saya mencoba mengubah dan menambah properti pada CSS dengan mengacu pada CSS Cheat Sheet.
