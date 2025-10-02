@@ -21,6 +21,192 @@
 
 ---
 
+111
+Oke, paham 🙌
+Jadi maksud kamu, kamu mau bikin **README.md** di repo GitHub kamu seperti punya teman kamu di screenshot → isinya langkah-langkah praktikum, penjelasan, dan screenshot hasil coding.
+
+Aku bisa bikinin draft **README.md** dengan struktur rapi, mirip seperti teman kamu, untuk bagian codingan yang udah kamu buat (HTML + CSS dasar).
+
+---
+
+### Contoh README.md untuk tugas kamu:
+
+````markdown
+# Praktikum 2 - CSS Dasar
+
+## 1. Membuat Dokumen HTML
+Pada langkah ini, dibuat file HTML baru (misalnya: `lab2_css_dasar.html`) yang berisi struktur dasar dokumen HTML.  
+Struktur HTML mencakup `<!DOCTYPE html>`, `<html>`, `<head>`, dan `<body>`.  
+Selain itu, ditambahkan elemen judul, paragraf, dan navigasi sederhana agar halaman dapat diakses dengan baik.
+
+**Kode:**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Dasar</title>
+</head>
+<body>
+  <header>
+    <h1>CSS Internal dan <i>Inline CSS</i></h1>
+  </header>
+
+  <nav>
+    <a href="lab2_css_dasar.html">CSS Dasar</a>
+    <a href="lab2_css_eksternal.html">CSS Eksternal</a>
+    <a href="lab1_tag_dasar.html">HTML Dasar</a>
+  </nav>
+
+  <div id="intro">
+    <h1>Hello World</h1>
+    <p>
+      Kami sedang belajar HTML dan CSS dasar, pada mata kuliah 
+      <b>Pemrograman Web</b> di <i>Universitas Pelita Bangsa</i>. 
+      Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+      dalam rangka mengenal tag-tag dasar HTML dan CSS.
+    </p>
+    <a class="button btn-primary" href="#intro">Informasi selengkapnya.</a>
+  </div>
+</body>
+</html>
+````
+
+**Screenshot:**
+![Dokumen HTML](screenshot/html.png)
+
+---
+
+## 2. Mendeklarasikan CSS Internal
+
+CSS internal ditulis pada bagian `<head>` menggunakan tag `<style>`.
+CSS ini digunakan untuk mengatur tampilan elemen pada halaman yang sama.
+
+**Kode:**
+
+```html
+<head>
+  <title>CSS Dasar</title>
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+    }
+    header {
+      min-height: 80px;
+      border-bottom: 1px solid #77CCEF;
+    }
+    h1 {
+      font-size: 24px;
+      color: #0F189F;
+      text-align: center;
+      padding: 20px 10px;
+    }
+    h1 i {
+      color: #6d6a6b;
+    }
+  </style>
+</head>
+```
+
+**Screenshot:**
+![CSS Internal](screenshot/internal.png)
+
+---
+
+## 3. Menambahkan Inline CSS
+
+Inline CSS ditulis langsung pada elemen HTML menggunakan atribut `style`.
+CSS jenis ini hanya berlaku pada elemen yang ditentukan.
+
+**Kode:**
+
+```html
+<p style="text-align: center; color: #ccd8e4;">
+  Kami sedang belajar HTML dan CSS dasar, pada mata kuliah 
+  <b>Pemrograman Web</b> di <i>Universitas Pelita Bangsa</i>. 
+  Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+  dalam rangka mengenal tag-tag dasar HTML dan CSS.
+</p>
+```
+
+**Screenshot:**
+![Inline CSS](screenshot/inline.png)
+
+---
+
+## 4. Menambahkan Eksternal CSS
+
+Selain internal dan inline, CSS juga bisa ditulis terpisah di file `.css`, lalu dipanggil ke HTML dengan `<link>`.
+
+**Kode File CSS (`style.css`):**
+
+```css
+nav {
+  background: #20A759;
+  color: #fff;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+nav .active,
+nav a:hover {
+  background: #0B6B3A;
+}
+
+/* ID Selector */
+#intro {
+  background: #418fb1;
+  border: 1px solid #099249;
+  min-height: 100px;
+  padding: 10px;
+}
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff;
+}
+
+/* Class Selector */
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+}
+.btn-primary {
+  background: #E42A42;
+}
+```
+
+**Kode Pemanggilan di HTML:**
+
+```html
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+```
+
+**Screenshot:**
+![Eksternal CSS](screenshot/eksternal.png)
+
+```
+
+---
+
+📌 Jadi kamu tinggal ganti bagian `![Screenshot](...)` dengan file screenshot hasil run HTML kamu (sesuai kayak temanmu).  
+
+Mau aku bikinin **versi README lengkap** langsung dengan struktur step 1–4 (HTML, internal CSS, inline CSS, eksternal CSS) biar bisa kamu copy-paste ke repo?
+```
+
+111
 ## **1. Eksperimen mengubah properti dan nilai CSS**
 
 Disini saya mencoba mengubah dan menambah properti pada CSS dengan mengacu pada CSS Cheat Sheet.
