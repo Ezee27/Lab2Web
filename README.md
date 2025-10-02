@@ -23,15 +23,11 @@
 
 ---
 
-111
-Oke, paham 🙌
-Jadi maksud kamu, kamu mau bikin **README.md** di repo GitHub kamu seperti punya teman kamu di screenshot → isinya langkah-langkah praktikum, penjelasan, dan screenshot hasil coding.
-
-Aku bisa bikinin draft **README.md** dengan struktur rapi, mirip seperti teman kamu, untuk bagian codingan yang udah kamu buat (HTML + CSS dasar).
-
 ---
 
-### Contoh README.md untuk tugas kamu:
+### 1. Membuat Dokumen HTML
+
+Pada langkah ini, dibuat sebuah file HTML baru (misalnya: lab2_css_dasar.html) yang berisi struktur dasar dokumen HTML.
 
 
 <img width="1510" height="1432" alt="no1" src="https://github.com/user-attachments/assets/3ec2ecee-44de-40cc-a60c-fb5aed90b4b5" />
