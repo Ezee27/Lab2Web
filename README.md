@@ -6,7 +6,7 @@
 
 ## **Identitas**
 
-### **Mata Kuliah** : Pemrograman Web1 ###
+### **Mata Kuliah** : Pemograman Web1 ###
 ### **Nama**        : Zaenal Maulana Rizki ###
 ### **NIM**         : 312410332 ###
 ### **Kelas**       : TI.24.A.4 ###
