@@ -17,7 +17,8 @@
 
 ## **Tujuan**
 
-<img width="1510" height="1432" alt="no1" src="https://github.com/user-attachments/assets/3ec2ecee-44de-40cc-a60c-fb5aed90b4b5" />
+
+<img width="629" height="225" alt="image" src="https://github.com/user-attachments/assets/1b4f473d-4ee7-4b7e-a45b-97e8ece432c3" />
 
 
 ---
@@ -33,7 +34,7 @@ Aku bisa bikinin draft **README.md** dengan struktur rapi, mirip seperti teman k
 ### Contoh README.md untuk tugas kamu:
 
 ````markdown
-<img width="1510" height="1432" alt="no1" src="https://github.com/user-attachments/assets/aaa3c26f-9c50-4b6f-a781-b7852d57d292" />
+<img width="1510" height="1432" alt="no1" src="https://github.com/user-attachments/assets/3ec2ecee-44de-40cc-a60c-fb5aed90b4b5" />
 
 ````
 
